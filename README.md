@@ -56,3 +56,7 @@ We approached this task by first creating a wireframe on Adobe InDesign to map o
 ## URL to Deployed Application:
 
 https://smiller-2019.github.io/destination-guide/
+
+## URL to Application Presentation:
+
+https://docs.google.com/presentation/d/1bxAc66CqurzHrctBxrlbO_LEosL77Pe--6m4l6kAXn4/edit#slide=id.p
