@@ -55,4 +55,4 @@ We approached this task by first creating a wireframe on Adobe InDesign to map o
 
 ## URL to Deployed Application:
 
-https://github.com/smiller-2019/destination-guide/
+https://smiller-2019.github.io/destination-guide/
